@@ -1,0 +1,26 @@
+{
+  "name": "cypress_study_smarter",
+  "version": "1.0.0",
+  "description": "cypress study smarter auntomation, test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "study",
+    "smarter",
+    "automation"
+  ],
+  "author": "talha automation",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+
+}

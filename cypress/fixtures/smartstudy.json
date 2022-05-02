@@ -1,0 +1,11 @@
+{
+    "AppUrl": "https://demo.studysmarter.de/",
+    "loginemail": "test1985test2022@gmail.com",
+    "loginpassword": "Welcome@2022",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "searchkey" : "ca",
+    "studysetname": "sampleset2",
+    "APIUrl": "https://be.dev.studysmarter-test.de/users/3816092/course-subjects/full/",
+    "APIToken" : "Token bdbca6975bc7ed73869f5d20a5bd91b49dda48e1",
+    "StudysetCalenderDay": "30"
+  }
